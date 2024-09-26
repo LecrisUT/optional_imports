@@ -1,4 +1,4 @@
-from optionals.pathlib import pathlib as optional_pathlib
+from optionals import pathlib as optional_pathlib
 import pathlib as real_pathlib
 
 from typing import reveal_type
